@@ -55,6 +55,22 @@ const sidebar = {
     '10.table',
     '11.tree'
   ],
+  "/senior/npm/": [
+    "1.index",
+    "2",
+    "3",
+    "4",
+    "5",
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "11",
+    "12",
+    "13",
+    "14",
+  ],
   '/source/vue/': [
     '1.preparation',
     '2.dataDriven',

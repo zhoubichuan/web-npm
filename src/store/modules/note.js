@@ -28,10 +28,10 @@ export default {
         name: "Vue相关",
         items: [
           {
-            title: "web-vscode",
+            title: "web-npm",
             skill: "Vuepress",
-            img: "web-vscode",
-            link: "/web-vscode/",
+            img: "web-npm",
+            link: "/web-npm/",
           },
         ],
       },

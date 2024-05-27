@@ -1,10 +1,10 @@
 {
-    "name": "web-vscode",
-    "short_name": "web-vscode",
+    "name": "web-npm",
+    "short_name": "web-npm",
     "start_url": "index.html",
     "display": "standalone",
     "background_color": "#2196f3",
-    "description": "web-vscode主页",
+    "description": "web-npm主页",
     "theme_color": "blue",
     "icons": [
       {
