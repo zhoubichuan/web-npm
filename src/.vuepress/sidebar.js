@@ -1,13 +1,19 @@
 const sidebar = {
-  '/base/1.desktop/': [
-    '1.index',
-    '2.Jenkins',
-    '3.gitlab',
-    '4.mongodb',
-    '5.redis',
-    '6.mysql',
-    '7.node',
-    '8.express'
+  "/base/1.npm/": [
+    "1.index",
+    "2",
+    "3",
+    "4",
+    "5",
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "11",
+    "12",
+    "13",
+    "14",
   ],
   '/base/2.practice/': [
     '1.docker',
@@ -55,21 +61,15 @@ const sidebar = {
     '10.table',
     '11.tree'
   ],
-  "/senior/npm/": [
-    "1.index",
-    "2",
-    "3",
-    "4",
-    "5",
-    "6",
-    "7",
-    "8",
-    "9",
-    "10",
-    "11",
-    "12",
-    "13",
-    "14",
+  '/senior/1.desktop/': [
+    '1.index',
+    '2.Jenkins',
+    '3.gitlab',
+    '4.mongodb',
+    '5.redis',
+    '6.mysql',
+    '7.node',
+    '8.express'
   ],
   '/source/vue/': [
     '1.preparation',
