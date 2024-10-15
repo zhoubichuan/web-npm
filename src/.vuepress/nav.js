@@ -21,11 +21,11 @@ const nav = [
     items: [
       {
         text: '一.yarn',
-        link: '/senior/use/1.recursionAndDynamics'
+        link: '/senior/yarn/1.index'
       },
       {
         text: '二.pnpm',
-        link: '/senior/1.desktop/1.index',
+        link: '/senior/pnpm/1.index',
 
       },
     ]

@@ -48,8 +48,8 @@ const sidebar = {
     // '20',
     // '21'
   ],
-  '/senior/use/': [
-    '1.recursionAndDynamics',
+  '/senior/yarn/': [
+    '1.index',
     '2.extend',
     '3.componentCommunication',
     '4.render',
@@ -61,7 +61,7 @@ const sidebar = {
     '10.table',
     '11.tree'
   ],
-  '/senior/1.desktop/': [
+  '/senior/pnpm/': [
     '1.index',
     '2.Jenkins',
     '3.gitlab',
